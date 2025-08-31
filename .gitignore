@@ -1,0 +1,10 @@
+# Arquivo de credenciais
+.env
+
+# Pastas de cache do Python
+__pycache__/
+*.pyc
+
+# Ambientes virtuais (se você usar um)
+.venv/
+venv/
